@@ -1,0 +1,6 @@
+div::before {
+	content: "'3' ";
+}
+div::after {
+	content: " XD";
+}
