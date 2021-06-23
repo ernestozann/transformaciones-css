@@ -3,7 +3,8 @@ div {
 	width: 150px;
 	height: 100px;
 	border-radius: 10%;
+	transform-origin: right top;
 }
 div:hover {
-	transform: rotate(20deg);
+	transform: rotate(90deg);
 }
