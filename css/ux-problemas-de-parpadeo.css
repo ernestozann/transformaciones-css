@@ -1,0 +1,12 @@
+div {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.container:hover .item {
+	/* background: rgb(158, 44, 29); */
+	transform: translateY(-15px);
+}
+.item {
+	background: rgb(158, 44, 29);
+}
